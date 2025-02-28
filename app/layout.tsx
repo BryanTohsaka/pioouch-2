@@ -1,6 +1,6 @@
 import './globals.css';
 import Footer from './components/Footer/Footer';
-import ContactButtons from './components/ContactButtons';
+import Btnwp from './components/Btnwp';
 
 
 export const metadata = {
@@ -17,9 +17,8 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {children}
-        
+        <Btnwp />
         <Footer />
-        <ContactButtons />
       </body>
     </html>
   )
