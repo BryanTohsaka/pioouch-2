@@ -1,7 +1,7 @@
 import './globals.css';
 import Footer from './components/Footer/Footer';
 import Btnwp from './components/Btnwp';
-
+import { GoogleTagManager } from './components/GTM'; // Importa el componente
 
 export const metadata = {
   title: 'Sin piojos La Villa',
@@ -15,7 +15,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <GoogleTagManager />
+      </head>
       <body>
+        <GoogleTagManager />
         {children}
         <Btnwp />
         <Footer />
