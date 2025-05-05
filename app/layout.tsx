@@ -21,8 +21,9 @@ export default function RootLayout({
       <body>
         <GoogleTagManager />
         {children}
+        {/*
         <Btnwp />
-        <Footer />
+        <Footer />*/}
       </body>
     </html>
   )
