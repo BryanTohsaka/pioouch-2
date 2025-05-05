@@ -4,7 +4,7 @@ import Btnwp from './components/Btnwp';
 import { GoogleTagManager } from './components/GTM'; // Importa el componente
 
 export const metadata = {
-  title: 'Sin piojos La Villa',
+  title: 'Piouch Off',
   description: 'elimniacion de piojos y liendres',
 }
 
