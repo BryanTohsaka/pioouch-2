@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="es">
       <head>
         {/* Favicon */}
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/public/favicon.ico" />
 
         {/* Google Tag Manager script (head) */}
         <Script id="gtm-head" strategy="afterInteractive">
