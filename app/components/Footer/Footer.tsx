@@ -10,33 +10,7 @@ const branches = [
         ],
         phone: "",
     },
-    {
-        name: "Sucursal Tláhuac",
-        address: [
-            "Av. la Turba 636-Local 10",
-            "Agrícola Metropolitana, Tláhuac, 13280",
-            "Ciudad de México, CDMX"
-        ],
-        phone: "",
-    },
-    {
-        name: "Sucursal Iztapalapa, Tepalcates",
-        address: [
-            "José Arrese 22, Tepalcates",
-            "Iztapalapa, 09210",
-            "Ciudad de México, CDMX"
-        ],
-        phone: "",
-    },
-    {
-        name: "Sucursal La Villa, Tepeyac",
-        address: [
-            "Parque Guadalupe 27, Industrial",
-            "Gustavo A. Madero, 07800",
-            "Ciudad de México, CDMX"
-        ],
-        phone: "",
-    },
+    
     {
         name: "Sucursal Barranca del Muerto",
         address: [
