@@ -2,20 +2,20 @@ import React from "react";
 
 const branches = [
     {
-        name: "Sucursal Coapa",
+        name: "Sucursal Barranca del Muerto",
         address: [
-            "Prol. División del Nte. 4506, Coapa",
-            "Prado Coapa, Tlalpan, 14357",
+            "Francisco de P. Miranda 377, Merced Gómez",
+            "Álvaro Obregón, 01480",
             "Ciudad de México, CDMX"
         ],
         phone: "",
     },
     
     {
-        name: "Sucursal Barranca del Muerto",
+        name: "Sucursal Coapa",
         address: [
-            "Francisco de P. Miranda 377, Merced Gómez",
-            "Álvaro Obregón, 01480",
+            "Prol. División del Nte. 4506, Coapa",
+            "Prado Coapa, Tlalpan, 14357",
             "Ciudad de México, CDMX"
         ],
         phone: "",
