@@ -20,6 +20,15 @@ const branches = [
         ],
         phone: "",
     },
+    {
+        name: "Sucursal Iztapalapa",
+        address: [
+            "José Arrese 22",
+            "Col. Tepalcates",
+            "Iztapalapa, 09210 CDMX",
+        ],
+        phone: "",
+    },
 ];
 
 const Footer = () => {
